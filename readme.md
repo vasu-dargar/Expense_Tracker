@@ -97,7 +97,7 @@ Authentication Flow Explanation -
 Streaming Use Case Explanation -
 ------------------------------
 
-    1 - The application uses Node.js streams to export expense data as a CSV file.
+    The application uses Node.js streams to export expense data as a CSV file.
     
     Utility of streaming -
     - Expense data can be large.
